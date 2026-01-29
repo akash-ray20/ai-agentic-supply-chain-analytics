@@ -1,0 +1,9 @@
+Postgres6,
+kpi_name,kpi_value
+Total Orders,13652
+Total Order Lines,24530
+Line Fill Rate,65.95%
+Volume Fill Rate,96.60%
+On Time Delivery,59.28%
+In Full Delivery,52.94%
+On Time In Full (OTIF),29.04%
